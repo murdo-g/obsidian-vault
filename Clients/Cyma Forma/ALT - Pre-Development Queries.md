@@ -1,0 +1,8 @@
+- LFOs: Analogue or digital?
+- Commented firmware: Doxygen commenting style adequate?
+- Firmware test results: Digital side test results vs analogue side e.g. oscillator stability testing at PWM output or integrator output?
+- LDOs: Are Cyma Forma aware of RoHS compliance issues if ALT is to go to distribution?
+- Error logs: System for retrieving log? Options are RTT (simple) or USB (more complex but can be done user-side)
+- Firmware upgrade: Happy for users to run DFU util? Would Cyma Forma handle Web USB interface? Other options?
+- USB MIDI device?
+- All closed source? Use of MIT licensed libraries? HAL is BSD-3-Clause
