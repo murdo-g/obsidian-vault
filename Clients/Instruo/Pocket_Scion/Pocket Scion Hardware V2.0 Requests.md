@@ -1,0 +1,3 @@
+- Add third battery
+- Add a single test point to GPIO for load monitoring\
+- 

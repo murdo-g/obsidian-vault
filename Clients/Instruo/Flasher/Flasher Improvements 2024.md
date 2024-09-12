@@ -1,0 +1,6 @@
+- Move to Linux box in testing room
+- Solder 2x3 Male headers on ISP port? (Ask Jason)
+- ATMEL ICE for all AVR chips
+- ATEML ICE for SWD programming?
+- Formalise scripts and host on git
+- Design big poster guide with summary and troubleshooting

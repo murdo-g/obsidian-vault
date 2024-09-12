@@ -1,0 +1,10 @@
+- [ ] 4 Instruments
+- [ ] RAW mode
+- [x] Startup LED animation
+- [ ] Stable MIDI out
+- [ ] MIDI mode change
+- [ ] Setting autosave
+- [ ] Source code tidy up (audio.cpp is a mess)
+- [ ] Error handling? populate handler
+- [ ] Spec [[Pocket Scion Hardware V2.0 Requests]]
+- [x] Comms with mushroom boy

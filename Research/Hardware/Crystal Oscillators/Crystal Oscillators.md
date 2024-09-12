@@ -1,4 +1,4 @@
-### Art of Electronics 5.19 (p.300)
+gm### Art of Electronics 5.19 (p.300)
 - Much higher precision than RC or LC oscillator circuits.
 - External crystal is the best choice in for accurate MCU timing.
 - Can be modelled to an RLC circuit tuned to some frequency.
