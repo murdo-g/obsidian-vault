@@ -1,3 +1,3 @@
 - Add third battery
-- Add a single test point to GPIO for load monitoring\
-- 
+- Alignment of boards
+- Power supervisor [IC](https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/APX803L05-31SA-7?qs=lqAf%2FiVYw9jqoVwYLN4Hlw%3D%3D)
