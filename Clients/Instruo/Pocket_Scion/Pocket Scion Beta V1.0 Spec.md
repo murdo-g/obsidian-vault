@@ -1,10 +1,10 @@
 - [ ] 4 Instruments
-- [ ] RAW mode
+- [x] RAW mode
 - [x] Fork SDK with pico.h and linker script change
 - [x] Startup LED animation
 - [x] Stable MIDI out
 - [x] MIDI mode change
-- [ ] Setting autosave
+- [x] Setting autosave
 - [ ] Source code tidy up (audio.cpp is a mess)
 - [ ] Error handling? populate handler
 - [x] Spec [[Pocket Scion Hardware V2.0 Requests]]
